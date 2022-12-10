@@ -1,0 +1,4 @@
+export const  ADD_SETUP="ADD_SETUP";
+export const  SWITCH_TO_QUIZ_MODE="SWITCH_TO_QUIZ_MODE"
+export const SWITCH_TO_SETUP_MODE="SWITCH_TO_SETUP_MODE"
+export const ADD_Q_AND_A="ADD_Q_AND_A";
